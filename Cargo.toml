@@ -1,0 +1,8 @@
+[package]
+name = "rc4"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+itertools = "0.13.0"
+rand = "0.9.0-alpha.1"
